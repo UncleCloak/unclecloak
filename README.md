@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Scientist<br>🎓 Lebanese University Student<br>📦 Working On Multiple Project, Including A Git/Github Clone<br>🍵 Tea Enthusiast<br>🍄‍🟫 Mushroom Lover
+💻 Computer Scientist<br>📦 Working On Multiple Project, Including A Git/Github Clone<br>❔ Why Aren't My Commits Working?<br>🍵 Tea Enthusiast
 
 
 ## 🌐 Socials:
