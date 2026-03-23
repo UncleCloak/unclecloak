@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Scientist<br>📦 Working On Multiple Project, Including A Git/Github Clone<br>❔ Why Aren't My Commits Working?<br>🍵 Tea Enthusiast
+💻 Computer Scientist<br>📦 Working On Multiple Project, Including A Git/Github Clone<br>❔ Why Aren't My Commits Working?<br>🍵 Tea Enthusiast<br>💎 Great Leader, Calm And Collected Under Pressure And Focuses On The Team's Mood
 
 
 ## 🌐 Socials:
